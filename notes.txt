@@ -5,3 +5,4 @@ open vscode with code
 create a note.txt file and take note of the letter u - represents untracked
 
 6. gits status - check the state of our local repo
+modify
